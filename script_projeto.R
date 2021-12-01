@@ -2,3 +2,5 @@
 # Versão 2
 
 library(tidyverse)
+join()
+rename()
